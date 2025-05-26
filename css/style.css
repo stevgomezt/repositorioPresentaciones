@@ -370,3 +370,8 @@ body {
     border-radius: 0.375rem;
     text-align: center;
 }
+
+.national-item.disabled .overlay-icon {
+    height: 3.5rem;
+    width: auto;
+}
